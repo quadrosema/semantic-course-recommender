@@ -1,3 +1,5 @@
+![Semantic Course Recommender](https://raw.githubusercontent.com/quadrosema/quadrosema/main/assets/course-cover.png)
+
 # Semantic Course Recommender
 
 An AI engineering project that turns a learning request into ranked courses using **LLM skill extraction, sentence embeddings and cosine similarity**. A Flask API connects the recommendation engine to SQLite persistence and a structured LangGraph workflow.
